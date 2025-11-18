@@ -64,7 +64,7 @@ npm run dev
 
 ## API Configuration
 
-**Important:** The application uses fal.ai's nanobanana API. The endpoint URL in `backend/server.js` is set to `https://fal.run/fal-ai/nanobanana`. If fal.ai uses a different endpoint format, you may need to update the URL in the server code.
+**Important:** The application uses fal.ai's nanobanana API - [https://fal.ai/models/fal-ai/nano-banana/edit/api](https://fal.ai/models/fal-ai/nano-banana/edit/api). If fal.ai uses a different endpoint format, you may need to update the URL in the server code.
 
 To verify the correct endpoint:
 1. Check the [fal.ai documentation](https://fal.ai/models)
